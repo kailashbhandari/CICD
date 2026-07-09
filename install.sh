@@ -1,1 +1,1 @@
-echo "Tests passed!"
+echo "Tests passed! OF cicd"
